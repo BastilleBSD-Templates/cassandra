@@ -1,0 +1,4 @@
+cassandra_enable=YES
+hostname=node1.mydomain.com
+
+
